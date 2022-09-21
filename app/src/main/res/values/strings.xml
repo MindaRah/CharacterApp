@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Characters App</string>
+    <string name="something_went_wrong_please_refresh">Something went wrong, please refresh</string>
+</resources>
